@@ -1,7 +1,7 @@
 # Post-Hashtag-Incongruity
 Hybrid Multi-Modal Deep Learning for Detecting Hashtag Incongruity
 
-| Dataset  | Description | Link |
+| Dataset  | Description | Google Drive Link |
 | ------------- | ------------- | ------------- |
 | Visual data  | Instagram Images and profile picture | [Link](https://drive.google.com/drive/folders/1yqd_8G3y9wIKF3qrmK0di-U8BExaitvB?usp=share_link) |
 | Metadata | User engagement and post networks information | [Link](https://drive.google.com/drive/folders/1WGf5QrmrPnAcqtAUgWM9PKm1v8kvp9FN?usp=share_link) |
