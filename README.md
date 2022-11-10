@@ -7,6 +7,11 @@ Hashtags have been an integral element of social media platforms over the years 
 
 -------------
 
+<img width="568" alt="multimodal_git" src="https://user-images.githubusercontent.com/47991444/198833802-cf755327-f906-46b6-80e5-893779305bb2.png">
+<img width="568" alt="face recognition_git" src="https://user-images.githubusercontent.com/47991444/198833465-dc916186-628a-402b-90d8-133ce35d509f.png">
+
+-------------
+
 | Dataset  | Description | Google Drive Link |
 | ------------- | ------------- | ------------- |
 | Visual data  | Instagram Images and profile picture | [Link](https://drive.google.com/drive/folders/1yqd_8G3y9wIKF3qrmK0di-U8BExaitvB?usp=share_link) |
@@ -21,6 +26,3 @@ Hashtags have been an integral element of social media platforms over the years 
 * TensorFlow: 2.9.2
 * Keras: 2.9.0
 * GPU: NVIDIA Tesla T4
-
-<img width="568" alt="multimodal_git" src="https://user-images.githubusercontent.com/47991444/198833802-cf755327-f906-46b6-80e5-893779305bb2.png">
-<img width="568" alt="face recognition_git" src="https://user-images.githubusercontent.com/47991444/198833465-dc916186-628a-402b-90d8-133ce35d509f.png">
